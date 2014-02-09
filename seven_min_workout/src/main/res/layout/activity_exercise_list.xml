@@ -1,0 +1,9 @@
+<fragment
+    android:id="@+id/exercise_list"
+    android:name="com.michaelcarrano.seven_min_workout.ExerciseFragment"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.michaelcarrano.seven_min_workout.ExerciseActivity"
+    tools:layout="@android:layout/list_content" />

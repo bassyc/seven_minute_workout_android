@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:seven_min_workout="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_workout"
+        android:title="@string/menu_workout"
+        seven_min_workout:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_about"
+        android:title="@string/menu_about"
+        seven_min_workout:showAsAction="never" />
+    
+    <item
+        android:id="@+id/menu_settings"
+        android:title="@string/menu_settings"
+        seven_min_workout:showAsAction="never" />
+
+</menu>

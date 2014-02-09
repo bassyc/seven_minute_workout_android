@@ -1,0 +1,4 @@
+<resources>
+    <item type="layout" name="activity_workout_list">@layout/activity_workout_twopane</item>
+    <bool name="has_two_panes">true</bool>
+</resources>

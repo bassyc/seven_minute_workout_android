@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">7 Minute Workout v2</string>
+    <string name="app_label">Minute Workout</string>
+    <string name="about_label">About</string>
+    <string name="settings_label">Settings</string>
+    <string name="workout_label">Workout</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+    <!-- ActionBar menu -->
+    <string name="menu_about">About</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_pause">Pause</string>
+    <string name="menu_workout">Workout</string>
+    <string name="menu_resume">Resume</string>
+
+    <!-- Workout texts -->
+    <string name="get_ready">Get Ready</string>
+    <string name="rest">Rest</string>
+    <string name="finished">You finished the workout!</string>
+
+    <!-- About texts -->
+    <string name="about_part1">Thank you for using the 7 Minute Workout application.</string>
+    <string name="about_part2">I hope this application helps you achieve your fitness goals by providing you with simple and clear instructions on how to do the 7 Minute Workout. Remember to always check with your doctor before exercising and seek professional help to ensure correct form of the exercises.</string>
+    <string name="about_part3">The workout videos from Youtube remain the owner\'s, please support them because they do amazing work making them available.</string>
+    <string name="about_part4">FAQ:</string>
+    <string name="about_part5">Q. Who invented the 7 Minute Workout?</string>
+    <string name="about_part6">A. It was developed by scientists at McMaster University in Hamilton, Onatrio. You can read more here.</string>
+    <string name="about_part7">Q. What is the 7 Minute Workout?</string>
+    <string name="about_part8">A. The 7 Minute Workout consists of 12 high intensity body weight exercises. 30 seconds per exercise. 10 seconds rest between exercises.</string>
+    <string name="about_part9">Q. What equipment do I need for the workouts?</string>
+    <string name="about_part10">A. You only need yourself, a chair, and a wall to do the workout.</string>
+    <string name="about_part11">Q. I found an issue with the app or have a general question, what do I do?</string>
+    <string name="about_part12">A. Please send me an email with details to 7minuteworkout@michaelcarrano.com</string>
+    <string name="about_part13">Disclosure:</string>
+    <string name="about_part14">This application requires the Internet permission to function correctly. The Internet permission is used for the following third party services used in the application:</string>
+    <string name="about_part15">1. Youtube (Youtube app also required in order to play workout videos)</string>
+    <string name="about_part16">2. Crashlytics (Collects device data to help identify the cause of a crash)</string>
+    <string name="about_part17">3. Google Analytics (Collects data on how users are using the application)</string>
+    <string name="about_part18">In addition, this app is open sourced on Github.</string>
+
+    <!-- Workout names -->
+    <string name="jumping_jacks">Jumping jacks</string>
+    <string name="wall_sits">Wall sits</string>
+    <string name="push_ups">Push-ups</string>
+    <string name="abdominal_crunches">Abdominal crunches</string>
+    <string name="step_ups_onto_a_chair">Step-ups onto a chair</string>
+    <string name="squats">Squats</string>
+    <string name="triceps_dips_on_a_chair">Triceps dips on a chair</string>
+    <string name="planks">Planks</string>
+    <string name="high_knees_running_in_place">High knees running in place</string>
+    <string name="lunges">Lunges</string>
+    <string name="push_ups_and_rotations">Push-ups and rotations</string>
+    <string name="side_planks">Side planks</string>
+
+    <!-- Workout description -->
+    <string name="jumping_jacks_desc">Start with your feet together and arms at your sides. Slightly bend your knees and jump straight up. As you are jumping kick your legs out to shoulder width and bring your hands over your head to form a "star".</string>
+    <string name="wall_sits_desc">Stand straight with your back against the wall with your legs shoulder width apart and a little away from the wall. Lower your hips until your legs are at right angles and then stand back up.</string>
+    <string name="push_ups_desc">Lay flat on your stomach with your palms flat on the floor approximately shoulder width apart. Push up on your hands until your arms are straight. Lower yourself until your arms are at 90-degrees. Repeat.</string>
+    <string name="abdominal_crunches_desc">A crunch begins with lying face up on the floor with knees bent. The movement begins by curling the shoulders towards the pelvis. The hands can be behind or beside the neck or crossed over the chest.</string>
+    <string name="step_ups_onto_a_chair_desc">Stand in front of the step, with your feet about shoulder width apart. Step up onto the step with one foot, followed by the other. Pause and then step off with the opposite foot. Repeat.</string>
+    <string name="squats_desc">Stand with your feet slightly wider than your hips and your toes pointed slightly out. Keeping your back straight lower your hips and bend your knees until you are parallel with the floor. Reverse until you are back in the original standing position.</string>
+    <string name="triceps_dips_on_a_chair_desc">Sit with the heels of your hands on the edge of a sturdy chair seat. Slide your bottom off the seat, and support your weight with your hands. Bend your elbows back, and slowly lower your butt toward the floor while keeping your elbows tucked in.</string>
+    <string name="planks_desc">Lay on your stomach and bend your elbows 90-degrees and rest your weight on your forearms. Your elbows should be directly beneath your shoulders, and your body should form a straight line from your head to your feet. Hold the position.</string>
+    <string name="high_knees_running_in_place_desc">Run on the spot lifting your knees as high as possible, swing your arms as if you were running normally.</string>
+    <string name="lunges_desc">Keep your upper body straight, with your shoulders back and relaxed and chin up. Step forward with one leg, lowering your hips until both knees are bent at about a 90-degree angle. Keep the weight in your heels as you push back up to the starting position.</string>
+    <string name="push_ups_and_rotations_desc">Perform a push-up, at top rotate the body into side-plank position with one arm on ground and other extended toward ceiling. Rotate back to top of push-up position. Perform push-up and repeat rotation to opposite side.</string>
+    <string name="side_planks_desc">Lay on your stomach and bend your elbows 90-degrees and rest your weight on your forearms (or hand if you prefer). Your elbows should be directly beneath your shoulders. Rotate 90-degrees so all your weight in on one forearm. Hold the position.</string>
+
+    <!-- Workout video -->
+    <string name="jumping_jacks_video">c4DAnQ6DtF8</string>
+    <string name="wall_sits_video">y-wV4Venusw</string>
+    <string name="push_ups_video">Eh00_rniF8E</string>
+    <string name="abdominal_crunches_video">SHWgBc4Ahc8</string>
+    <string name="step_ups_onto_a_chair_video">u-QwO-Bbaro</string>
+    <string name="squats_video">p3g4wAsu0R4</string>
+    <string name="triceps_dips_on_a_chair_video">nx9gVDCnT84</string>
+    <string name="planks_video">pSHjTRCQxIw</string>
+    <string name="high_knees_running_in_place_video">kMFv3Alg-Gc</string>
+    <string name="lunges_video">m_RYVmpWDq4</string>
+    <string name="push_ups_and_rotations_video">uGqZONsnZa8</string>
+    <string name="side_planks_video">NXr4Fw8q60o</string>
+
+</resources>
